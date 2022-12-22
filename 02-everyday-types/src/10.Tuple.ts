@@ -1,0 +1,1 @@
+let array:[number, string] = [112,'1122']
