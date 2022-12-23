@@ -1,8 +1,5 @@
 "use strict";
-var Person;
-(function (Person) {
-    Person[Person["ll"] = 0] = "ll";
-    Person[Person["mm"] = 1] = "mm";
-    Person[Person["nn"] = 2] = "nn";
-    Person[Person["vv"] = 3] = "vv";
-})(Person || (Person = {}));
+let p = { x: 1, y: 2 };
+function formatpoint(point) { }
+formatpoint({ x: 10, y: 20 });
+let num;
