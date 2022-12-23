@@ -4,6 +4,6 @@ interface Onesing{
 
 class TwoPerson implements Onesing{
   sing(){
-    console.log('实现接口');
+    console.log('实现接口')
   }
 }
